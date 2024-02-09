@@ -8,7 +8,7 @@
 `"...Beato.`
 ` Non c'è bisogno di mostrare così tanta ostilità.`
 ` Io sono una strega errante.`
-` Non sono venuta qui con l'intento di violare le regole del tuo dominio."`
+` Non sono venuta qui con l'intento di violare le leggi del tuo territorio."`
 `"...Mhmhmhmh, da parte mia non c'è nemmeno un grammo di ostilità...`
 `{n}È solo che ci tengo molto a non commettere errori dinanzi a Lady {f:5:Bernkastel}, la strega leggendaria."`
 `"...C'è stato un malinteso.`
@@ -17,7 +17,7 @@
 `"Ciò che è sconcertante è che un'impotente nobile Strega come te possegga un potere che nessuno può rivaleggiare.`
 ` Dopotutto, sei stata l'unica a sconfiggere con le tue sole forze quella Grande Strega, Lady {f:5:Lambdadelta}."`
 `"...Ho solo vinto una gara di resistenza.`
-` Quella ragazza si è semplicemente stancata."`
+` Quella ragazza si era semplicemente stancata."`
 `"Non è quello che dice Lady {f:5:Lambdadelta}...`
 ` Mhmhmhmh, un'eccessiva modestia può risultare sconveniente, sai, Lady {f:5:Bernkastel}?"`
 `"...Quella ragazza possiede un potere sbalorditivo...`
@@ -33,8 +33,8 @@
 ` Penso che il tuo sia il più spaventoso."`
 `"Non prendermi in giro...`
 ` Dal tuo punto di vista, il mio è un potere insignificante.`
-` Questo è quello che verrebbe chiamato un futile elogio."`
-`"...Il mio è un complimento per compensare il costo del mio soggiorno...`
+` Questo è quello che verrebbe chiamato un frivolo elogio."`
+`"...Vedilo come un complimento per compensare il costo del mio soggiorno...`
 `{n}Sono una viaggiatrice in fuga, che attraversa i {ruby:Kakera:Frammenti} per scappare dalla noia...`
 ` Sono venuta qui semplicemente perché ho sentito che avevi iniziato qualcosa di interessante.`
 ` Non preoccuparti, deciderò di andarmene non appena lo troverò noioso."`
@@ -55,7 +55,7 @@
 `"E qualunque esito verrà fuori, non rimarrai mai delusa.`
 ` E qualunque risultato mostrerà il dado, ne sarai soddisfatta in maniera {i:infallibile}...`
 ` Tu mi sorpassi di gran lunga in tal senso..."`
-`"...Con te non vorrei mai combattere.`
+`"Con te non vorrei mai combattere.`
 ` Dentro di te, non c'è altro che lo zero.`
 `{n}È per questo che con il mio potere non posso vincere contro di te...`
 `{n}La nostra compatibilità è la peggiore...`
@@ -78,7 +78,7 @@
 `...Sembra che sei stato preso di mira da una seccatura.`
 `Mi piacerebbe molto concederti il mio potere, ma come hai sentito, il potere di quella ragazza e il mio hanno una pessima compatibilità.`
 ` Mi dispiace per te.`
-`Ma visto che sei davvero patetico, ti presterò un po' del mio potere...`
+`Ma visto che sei in uno stato davvero patetico, ti presterò un po' del mio potere...`
 `Prima di tutto, riguardo quella ragazza.`
 `Il suo nome è {f:5:Beatrice}, ma ciò non significa che sia {i:una singola donna}.`
 `Capisci cosa intendo?`
@@ -99,10 +99,10 @@
 `Ovviamente, puoi anche usarlo per sorseggiare all'infinito la tua zuppa annacquata, tra le mura di pietra della tua eterna prigione...`
 `Non farti un'idea sbagliata, non ho alcuna intenzione di diventare una tua alleata.`
 `Ti compatisco, ma non ti aiuterò...`
-` È come se fossi seduta davanti al televisore: non importa quante volta io urli ad un personaggio dall'altra parte dello schermo, la mia voce non lo raggiungerà mai.`
+` È come se fossi seduta davanti al televisore: non importa quante volte io urli ad un personaggio dall'altra parte dello schermo, la mia voce non lo raggiungerà mai.`
 `{a:c:`
 `DOPOTUTTO, SAI CHE ANCH'IO SONO UNA STREGA, VERO?}`
-`Intendo gustarmi questa storia infinita che Beato sta tessendo, finché non me ne stancherò.`
+`Questa storia infinita che Beato sta imbastendo intendo gustarmela, finché non me ne stancherò.`
 ` Ma non basterà a tenere vivo il mio interesse...`
 `È per questo che ti presterò il mio potere.`
 ` Così non mi annoierò.`

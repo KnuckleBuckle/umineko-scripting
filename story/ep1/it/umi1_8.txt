@@ -135,15 +135,15 @@
 ` Non potrebbe essere semplicemente uno pseudonimo?`
 ` Magari, per il suo ruolo di rappresentante del nonno, le è stato permesso di portare il nome della strega dei suoi deliri."`
 `"No, non è questo che intendevo.`
-` A Rokkenjima in questo momento abbiamo un totale di diciotto persone...`
+` A Rokkenjima in questo momento siamo diciotto persone in totale...`
 ` Pensi che ci sia una 19ª persona?"`
 `Era 18 il numero di persone in quel momento presenti nell'isola?`
 ` Pensandoci su, mi misi a contare con le dita, ed effettivamente c'erano diciotto persone.`
 `"Se penso che esista una 19ª persona, dici...`
 ` Cosa intendi per l'esattezza?"`
 `"Quello che ho detto...`
-` Sembra che la persona che ha prestato l'ombrello a Maria non fosse uno di noi diciotto.`
-` Non sarebbe pertanto lecito presumere che esista una 19ª persona, e che questa abbia prestato l'ombrello a Maria?"`
+` Sembra che la persona che ha prestato l'ombrello a Maria-chan non fosse uno di noi diciotto.`
+` Non sarebbe pertanto lecito presumere che esista una 19ª persona, e che questa abbia prestato l'ombrello a Maria-chan?"`
 `"...Beh... suppongo di sì."`
 `"Allora, dov'è questa persona adesso?`
 ` Come minimo, doveva essere su quest'isola da quando ha iniziato a piovere.`
@@ -179,9 +179,9 @@
 `In altre parole, significa riuscire a pensare come il proprio contendente, mettendosi nei suoi panni.`
 `"...Capisci?`
 ` Supponiamo che esista una 19ª persona dal nome di {f:5:Beatrice}.`
-` Questa figura sarebbe riuscita, senza essere vista da nessuno, ad arrivare di nascosto su quest'isola e a rimanere nascosta per tutto questo tempo.`
+` Questa figura sarebbe riuscita, senza essere vista da nessuno, ad arrivare di nascosto su quest'isola e a rimanere celata per tutto questo tempo.`
 ` Lo avrà fatto per qualche motivo, no?`
-` In tal caso, perché si è volutamente rivelata per consegnare la lettera a Maria-chan?"`
+` Se così, perché si è volutamente rivelata per consegnare la lettera a Maria-chan?"`
 `Effettivamente era una contraddizione.`
 `Se aveva qualche motivo per nascondersi,`
 ` avrebbe dovuto restare celata, ma ciononostante è apparsa direttamente davanti a Maria.`
@@ -195,8 +195,8 @@
 ` Non c'era alcun bisogno di portarla a mano e consegnarla di nascosto."`
 `"...In effetti...`
 ` le circostanze sono piuttosto strane."`
-`"In primo luogo, se questa {f:5:Beatrice} esistesse, e volesse rendere nota la sua esistenza, avrebbe potuto semplicemente presentarsi in grande stile davanti a tutti.`
-` Nonostante ciò, ha scelto un modo ambiguo di dimostrare la sua esistenza senza mostrarsi, attraverso una bambina piccola come Maria-chan.`
+`"In primo luogo, se questa {f:5:Beatrice} esistesse, e volesse rendere nota la sua esistenza, avrebbe potuto semplicemente presentarsi in pompa magna davanti a tutti.`
+` Nonostante ciò, ha scelto un modo ambiguo per dimostrare la sua esistenza senza mostrarsi, attraverso una bambina piccola come Maria-chan.`
 ` È una contraddizione.`
 ` Riflettiamoci più a fondo, ti va...?"`
 `"È apparsa di fronte a Maria-chan, per cercare di darci l'impressione che vi sia una 19ª persona,`

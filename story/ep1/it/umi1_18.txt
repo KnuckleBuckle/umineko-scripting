@@ -17,11 +17,11 @@
 ` In quanto compagni di sventure, dovremmo essere buoni amici e leccarci le ferite a vicenda!`
 ` Lecca lecca lecca!!"`
 `"Shannon ci batte ad occhi chiusi in quanto a sventure, vero?`
-` Ero certa che un personaggio dall'aria così posata sarebbe sopravvissuto fino alla fine,`
+` Ero certa che un personaggio dall'aria così incantevole sarebbe sopravvissuto fino alla fine,`
 ` ma è stata uccisa fin da subito, e poi in che modo?`
-` Sbaglio o è stato distrutto metà del suo volto?`
+` Sbaglio o metà del suo volto è stata distrutta?`
 ` Che fine orrenda!"`
-`"...Era il mio dovere, perciò... ecco, non c'era nulla da fare..."`
+`"...Era la mia parte, perciò... ecco, non c'era nulla da fare..."`
 `"...Sorella, non c'è niente di cui preoccuparsi.`
 ` A giudicare dall'epilogo, anche la signorina e gli altri hanno incontrato una fine altrettanto tragica."`
 `"Ahahahah... così pare.`
@@ -34,7 +34,7 @@
 `{n}Dopotutto, grazie ad essa, è stato reso evidente che esistesse una 19ª persona."`
 `"Giusto.`
 ` In quel frangente, la posizione di tutti era chiara.`
-` Perciò, uccidere Kanon-kun era impossibile per ciascuno di noi, tranne una 19ª persona ignota."`
+` Perciò, uccidere Kanon-kun era impossibile per ciascuno di noi, tranne per una 19ª persona ignota."`
 `"Uuh!`
 ` Maria ha detto che era stata {f:5:Beatrice} fin dall'inizio, lo ha sempre detto!`
 ` Uuh!"`
@@ -44,8 +44,8 @@
 `"Uuh. Solo una strega poteva uccidere zia Eva in quella camera chiusa, ad esempio.`
 ` Non avrebbe potuto farlo un umano!`
 ` Uuh!"`
-`"...Non solo è stata chiarita l'esistenza di una 19ª persona, ma è anche ovvio che questo individuo possegga poteri che gli umani non possono neanche concepire."`
-`"In tal caso, penso non ci siano problemi se chiamiamo questo individuo col nome di ‘{f:5:Beatrice}’."`
+`"...Non solo è stata chiarita l'esistenza di una 19ª persona, ma è anche ovvio che questo individuo possegga poteri che gli umani non possono nemmeno concepire."`
+`"In tal caso, non penso ci siano problemi se chiamiamo questo individuo col nome di ‘{f:5:Beatrice}’."`
 `"...Forse, la Strega Dorata...`
 ` l'abbiamo incontrata verso la fine."`
 `"Ecco perché Maria continuava a dire che {f:5:Beatrice} esiste!`
@@ -66,12 +66,12 @@
 `"...Beh, ecco... non è stata dolorosa...`
 ` Comunque sia...`
 ` ora sto benissimo, quindi non si preoccupi."`
-`Dopo aver visto George accarezzare la guancia di Shannon, che era stata distrutta durante lo svolgimento della storia, tutti quanti scoppiarono in una grossa risata allegra.`
+`Dopo aver visto George accarezzare la guancia di Shannon, che era stata distrutta durante lo svolgimento della storia, tutti quanti scoppiarono in una fragorosa e allegra risata.`
 `"Comunque, come posso dirlo... ero convinto che fossimo in un tipico giallo.`
-` Sono rimasto un po' sorpreso dallo scoprire che quella era una storia di fantasia.`
+` Sono rimasto un po' sorpreso dallo scoprire che quella era un racconto fantastico.`
 ` Dopotutto, credevo che fossimo in un vero e proprio racconto giallo, dato che c'erano dei problemi che coinvolgevano un'eredità all'interno di una villa in stile occidentale, posta in un'isola sperduta segregata dal mondo esterno."`
 `"...Uuh.`
-` Non è una storia di fantasia!`
+` Non è un racconto fantastico!`
 ` {f:5:Beatrice} {i:esiste}!`
 ` Uuh."`
 `"...Sì, lo sappiamo.`
@@ -97,7 +97,7 @@
 ` ma sono sicura che siano calorose con chi crede in loro e le rispetta."`
 `"...Penso che tu abbia ragione, sorella."`
 `"Bene, dopo tante fatiche, questi casi immaginari di omicidi sono finiti.`
-` Che ne dite di rimboccarci le maniche e di provare a risolvere l'enigma dell'epigrafe, proprio come ci aveva detto di fare {f:5:Beatrice}?"`
+` Che ne dite di rimboccarci le maniche e di provare a risolvere l'enigma dell'epigrafe come {f:5:Beatrice} ci aveva detto di fare?"`
 `"Uuh!`
 ` Ci sto!`
 ` {f:5:Beatrice} sicuramente ne sarà felice."`
@@ -105,13 +105,13 @@
 ` Nel corso della storia, abbiamo tutti ignorato quella lettera."`
 `"...Tutto quell'impegno nell'impostare l'enigma, ed è stato quasi completamente trascurato.`
 ` Un po' mi dispiace per {f:5:Beatrice}-sama."`
-`"Ho appuntato l'epigrafe!`
+`"Io ho appuntato l'epigrafe!`
 ` Risolviamola insieme, risolviamola insieme...!"`
 `"Probabilmente abbiamo sbagliato a partire da quel punto del racconto."`
 `"...Può darsi.`
 ` Forse avremmo dovuto cercare di risolvere l'enigma dell'epigrafe, come ci aveva consigliato {f:5:Beatrice}-sama."`
 `"Beh, ora è un po' tardi.`
-` Io direi di riprovarci adesso, e la strega ci perdonerà.`
+` Io direi di riprovarci adesso e vedere se la strega ci perdonerà.`
 ` Forza, forza, proviamo a risolvere l'enigma dell'epigrafe...`
 ` Iniziava con un: ‘Il fiume degli ayu, che attraversa la mia cara terra natia’..."`
 `Maria mise il suo quaderno sul tavolo, aprendolo alla pagina in cui aveva trascritto l'epigrafe,`
@@ -120,7 +120,7 @@
 `"...Aspettate un secondo."`
 `Tuttavia, Battler parlò, spegnendo così l'atmosfera che si era creata.`
 `A guardarlo, sembrava leggermente insoddisfatto.`
-` Che cosa non poteva piacergli di tutto quello spasso?`
+` Che cosa poteva non piacergli di tutto quello spasso?`
 `"...Sono stato ad ascoltarvi per un po', ma perché avete smesso di ragionare?`
 ` Perché siete così sicuri che sia stata opera di una strega...?`
 ` Come diamine può essere possibile?"`
@@ -137,7 +137,7 @@
 `"È vero...`
 ` Dopotutto, non erano pieni di elementi che un essere umano non potrebbe spiegare...?"`
 `"...Signorino Battler, non capisco cosa lei stia dicendo."`
-`"S-Sono io quello che non ha la minima idea di cosa stiate dicendo!`
+`"S-Sono io quello che non ha la minima idea di cosa state dicendo!`
 ` Non è ovvio che questi casi erano stati compiuti da un essere umano?`
 ` Non può essere che esistano le streghe, no...?"`
 `"A-Allora...`
@@ -146,9 +146,9 @@
 `"...Quello...`
 ` beh,`
 ` mi viene un po' difficile pensare a come abbia potuto compiere un atto così crudele."`
-`"Ma lì era il magazzino del roseto, vero?`
+`"Ma eri nel magazzino del roseto, vero?`
 ` Sono sicuro che là dentro ci fossero un mucchio di aggeggi strani.`
-` Che ne so, magari può aver usato qualche attrezzo elettrico, tipo un trituratore o una sega elettrica."`
+` Che ne so, magari può aver usato qualche attrezzo elettrico, tipo un trituratore o una motosega."`
 `"...Q-`
 `Questo è...`
 ` ecco..."`
@@ -167,7 +167,7 @@
 ` Naturalmente, anche le finestre erano chiuse.`
 ` In che modo pensi che un umano avrebbe potuto uccidere i miei genitori?"`
 `"...Beh...`
-` in effetti durante la storia abbiamo messo quel trucco da parte.`
+` in effetti, durante la storia abbiamo messo quel trucco da parte.`
 ` Ad ogni modo, è molto probabile che il colpevole avesse la chiave.`
 ` E questo garantiva uno spiraglio della porta, nella misura consentita dalla catenella..."`
 `"Dirlo mi addolora, ma è possibile che, attraverso quello spiraglio, sia stato adoperato uno strumento...`
@@ -182,10 +182,10 @@
 ` Perché tu e gli altri avete smesso di ragionare?`
 ` Anche se qualcosa a prima vista sembra impossibile, in un modo o nell'altro si può riuscire a farlo.`
 ` Non è sempre così nei racconti?"`
-`"Battler, sei tu quello che dice cose insensate...`
+`"Battler, sei tu quello che sta sparando cose insensate...`
 ` Se dici che un umano può farlo, prova a spiegare come.`
 ` Non ci riesci, vero?"`
-`"Quando non riuscite a spiegare qualcosa, vi sentite più sereni a concludere subito che il colpevole è una strega.`
+`"Quando non riesco a spiegare qualcosa, vi sentite più sereni a concludere subito che il colpevole è una strega.`
 ` Con questa logica, tutti i casi irrisolti nel mondo si potrebbero risolvere dicendo che è stata colpa di una strega!"`
 `"...Battler, stai cambiando discorso, e non stai spiegando niente...`
 ` Noi stiamo dicendo questo: ‘Un essere umano non può riuscirci.`
@@ -198,7 +198,7 @@
 `"...Q-Questa logica non mi piace affatto.`
 ` In pratica stai cercando di dirmi questo...`
 ` Che se non posso spiegare come un umano possa farlo,`
-` allora devo accettare che il colpevole sia {f:5:Beatrice}."`
+` allora devo accettare che il colpevole sia la strega {f:5:Beatrice}."`
 `"...Non è che la stiamo obbligando.`
 ` Ci stiamo solo chiedendo su quali basi lei afferma tutte queste cose senza senso, signorino Battler."`
 `"S-Senza senso`
@@ -217,7 +217,7 @@
 `"Non sappiamo se sia entrata nella sala caldaie insieme a te e ti abbia colto di sorpresa infilzandoti!`
 ` Oppure, quando hai messo piede nella sala caldaie hai attivato una trappola, che era stata piazzata in modo da piantare uno di quei punteruoli."`
 `"Ad ogni modo, la puzza del cadavere del nonno proveniva dall'inceneritore.`
-` Qualcuno dev'essere per forza andato lì, quindi se è stata posizionata una trappola, il colpevole poteva tranquillamente essere lontano da lì, e crearsi così un alibi all'ora del tuo decesso...!"`
+` Qualcuno dev'esserci andato per forza, quindi se è stata posizionata una trappola, il colpevole poteva tranquillamente essere lontano da l, e crearsi così un alibi all'ora del tuo decesso...!"`
 `"...Che genere di trappola poteva esserci nella sala caldaie...?"`
 `"Giusto.`
 ` Subito dopo, ci eravamo tutti precipitati nella sala caldaie.`
@@ -237,7 +237,7 @@
 ` hai...`
 ` battuto la testa?"`
 `"...Ehm... devo portarle qualche bevanda fresca...?"`
-`"N-Non sto dicendo nulla di così strano, da meritarmi queste occhiate compassionevoli...`
+`"N-Non sto dicendo nulla di così strano da meritarmi queste occhiate compassionevoli...`
 ` Sto solo dicendo che è possibile alla fine ricavarne un trucco, ok?"`
 `"E poi pensateci, non è forse una convenzione delle storie gialle che in realtà le vittime non sono morte!?"`
 `"Una convenzione...?"`
@@ -279,7 +279,7 @@
 `"Tantomeno che vi sia una {i:strega}, giusto?`
 ` Sicuramente non può essere quello!!"`
 `"...Non capisco perché Battler si stia incaponendo a provare che il colpevole fosse uno di noi.`
-` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi, Battler vuole sospettare di uno dei suoi parenti...?"`
+` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hih, Battler vuole sospettare di uno dei suoi parenti...?"`
 `"Non è così...`
 ` Voglio solo dire che non posso accettare così facilmente che esista una 19ª persona, e anche se ve ne fosse una, dovremmo basare i nostri discorsi sulla base che essa sia un essere umano,`
 ` e che le streghe sono elementi che saltano fuori alla fine, quando si è in preda alla disperazione e ogni cosa è stata smentita."`
@@ -293,7 +293,7 @@
 ` Shannon-chan, tu dovresti desiderare di conoscere chi ti abbia ucciso."`
 `"Perché vi siete arresi su tutti i fronti e avete deciso che il colpevole è la strega?!`
 `Che cosa vi prende?!"`
-`Lo sciocco e irascibile Battler inveii contrò di loro, cercando di forzare la sua ignoranza sugli altri...`
+`Lo sciocco e irascibile Battler inveì contro di loro, cercando di forzare la sua ignoranza sugli altri...`
 `Tuttavia, si limitarono ad osservarlo in silenzio, rivolgendogli occhiate compassionevoli.`
 `Al che la saggia Maria rise, facendo notare a Battler il suo errore.`
 `"...Kihihihihihihihihih...`
@@ -310,7 +310,7 @@
 `"Perché {i:non esiste}!`
 ` Le streghe {i:non esistono}!!`
 ` È impossibile!!"`
-`...Era come un bambino cocciuto che non voleva accettare qualcosa.`
+`...Era come un bimbo cocciuto che non voleva accettare qualcosa.`
 `Battler venne accerchiato da sguardi ricolmi di pietà, ma essi non raggiunsero il suo cuore ostinato.`
 `"...Non vedi che ti stai comportando proprio come un bambino viziato e testardo?"`
 `"...Signorino Battler,`
@@ -328,7 +328,7 @@
 `"...Kihihihihihihihihihihihihih...`
 ` Alla fine...`
 ` sembra che Battler sarà l'unico che non ci crederà mai..."`
-`"Se anche una sola persona non ci crede, {i:il miracolo} non avverrà mai...`
+`"Se anche una singola persona non ci crede, {i:il miracolo} non avverrà mai...`
 ` Quindi, se Battler non riconsidererà i suoi pregiudizi ignoranti, il miracolo... no, la magia, non sarà mai completata."`
 `"Eheh...`
 ` Ora capisco...`
@@ -337,7 +337,7 @@
 ` Una bugia accettata da tutti diventa {i:la verità}...`
 ` È così che stanno le cose...?!"`
 `"Mi dispiace.`
-` Mi dispiace, ma è tutto inutile, mi rifiuto.`
+` Mi dispiace tanto, ma è tutto inutile, mi rifiuto.`
 ` {i:Mi state mettendo sotto pressione, ecco perché è tutto inutile.}"`
 `"...Perché?"`
 `"Scusatemi, ma mi lascereste rigirare la scacchiera per l'ultima volta...?`
@@ -345,7 +345,7 @@
 `"E non è il metodo contorto del dire: ‘Non può averlo fatto un umano, quindi è stata una strega’!`
 ` Basta mostrarmi una strega che mi faccia vedere come abbia usato la magia."`
 `"Inoltre, ciò che Maria ha detto prima è stato l'elemento che le ha irrimediabilmente scavato la fossa...`
-` Ossia, che se anche una sola persona non ci crede, {i:il miracolo} non avverrà mai..."`
+` Ossia, che se anche una singola persona non ci crede, {i:il miracolo} non avverrà mai..."`
 `"Ma i veri miracoli accadono lo stesso, a prescindere che la gente ci creda o meno!`
 ` Anche se io sia l'unico a non crederci!!`
 ` Perciò, qualunque miracolo, magia o strega che richiede il mio crederci, non è altro che una bugia bella e buona!!"`
@@ -378,7 +378,7 @@
 ` Davvero...`
 ` Sono senza parole...`
 ` Vi siete spinti fino a tanto...`
-` per convincermi che il colpevole sia una 19ª persona...?"`
+` per convincermi che la 19ª persona colpevole sia una strega...?"`
 `"La cosa si fa interessante...!`
 ` Ve l'ho detto che è tutto inutile...!!`
 ` Tu devi essere l'illusione della strega {f:5:Beatrice}, come affermano Maria e gli altri..."`
@@ -387,7 +387,7 @@
 ` È per questo che vuoi far credere anche me.`
 ` {i:Visto che sono l'unico a non crederci, tu non esisti}...`
 ` Non è forse così?!"`
-`"...Niente male come capacità di comprensione, per un semplice plebeo che non sa nulla di spiriti...`
+`"...Niente male come capacità di comprensione, per un semplice plebeo che non sa nulla di magia...`
 ` Capisco, sembra che in qualche modo tu sia nato con una forte resistenza alla magia..."`
 `"Sei il nemico naturale di noi streghe...`
 ` Non importa quanto capovolgiamo il vostro mondo,`
@@ -412,7 +412,7 @@
 ` Io negherò la tua esistenza.`
 ` Tutti gli avvenimenti possono essere spiegati con {i:dei trucchi umani}...!!`
 `{n}Non ci sarà modo di infilarci neanche un pizzico di magia o di streghe!!"`
-`"Bene..!`
+`"Bene...!`
 ` Così la mia noia millenaria sarà alleviata."`
 `"Allora sentiamo.`
 ` Poco fa hai detto che per uccidere Eva e Hideyoshi sarebbe stato sufficiente utilizzare lo spiraglio della porta, vero...?`
@@ -423,7 +423,7 @@
 ` {i:Miss Vero Colpevole}?"`
 `{f:5:Beatrice} agitò la sua pipa dorata,`
 ` dalla cui estremità fuoriuscì un fumo tenue dai colori dell'arcobaleno...`
-`I vapori avvolsero in un battibaleno l'ambiente circostante...`
+`I vapori avvolsero in un batter d'occhio l'ambiente circostante...`
 ` e all'improvviso si ritrovarono nel corridoio della villa.`
 `La porta di fronte a loro, leggermente socchiusa e bloccata dalla catenella, era...`
 `Esatto, era la porta d'ingresso della camera dove erano stati uccisi Eva e Hideyoshi.`
@@ -450,7 +450,7 @@
 `"...Eh!`
 ` Vuoi davvero farmi baciare le tue scarpe così tanto...?!`
 ` Solo se mi arrendo!`
-` Ma sta' a vedere, svelerò sicuramente questo trucco, e sarai tu quella che mi bacierà, ma sul culo!"`
+` Ma sta' a vedere, svelerò sicuramente questo trucco, e sarai tu quella che mi bacerà, ma sul culo!"`
 `"...Mhmhmh.`
 ` Che uomo interessante.`
 ` Mi ricorderò di questa tua promessa...`
@@ -472,10 +472,10 @@
 `Alla chiamata di {f:5:Beatrice} risposero i picchetti di Beelzebub e Asmodeus.`
 `I due picchetti demoniaci vennero risucchiati nello spiraglio della porta, lanciandosi come se fossero palle da biliardo colpite da una stecca.`
 `Dopodiché, sulle pareti della stanza si sparpagliarono diversi rumori, simili al beccare di un picchio.`
-`E infine, si sentì un suono gradevole alle orecchie...`
+`E infine, si udì un suono gradevole alle orecchie...`
 `Era un suono molto gratificante, che avrebbe ricordato un momento in cui si sta tagliando della legna da ardere e si fa cadere giù un'ascia, la quale trancia il legno di netto e con facilità.`
 `Era il rumore dei due picchetti, che si conficcarono in profondità nelle fronti di rispettivamente Eva e Hideyoshi.`
-`"...Al centro della fronte.`
+`"...Proprio al centro della fronte.`
 ` Vuoi dare un'occhiata...?"`
 `Si poteva indubbiamente sentire il suono di due fronti che venivano fracassate.`
 `Battler, che si trovava dall'altra parte della porta, non riuscì neanche a vederli,`
