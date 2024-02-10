@@ -76,9 +76,9 @@
 `"Aspetta un altro po'...`
 ` Mhmhmhmh!"`
 `...Sembra che sei stato preso di mira da una seccatura.`
-`Mi piacerebbe molto concederti il mio potere, ma come hai sentito, il potere di quella ragazza e il mio hanno una pessima compatibilità.`
+`Mi piacerebbe molto darti una mano, ma come hai sentito, il potere di quella ragazza e il mio hanno una pessima compatibilità.`
 ` Mi dispiace per te.`
-`Ma visto che sei in uno stato davvero patetico, ti presterò un po' del mio potere...`
+`Ma visto che sei in uno stato davvero patetico, ti darò un aiutino...`
 `Prima di tutto, riguardo quella ragazza.`
 `Il suo nome è {f:5:Beatrice}, ma ciò non significa che sia {i:una singola donna}.`
 `Capisci cosa intendo?`
