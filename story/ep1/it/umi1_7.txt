@@ -775,7 +775,7 @@
 ` {f:5:Beatrice} dovrà rinunciare per sempre ad ogni diritto su di essi..."}`
 `{e:070:"La riscossione degli interessi avrà luogo a breve, ma se anche uno solo di voi dovesse soddisfare la clausola speciale,`
 `{n}verrà restituita ogni cosa, incluso quello che avrò già incassato.`
-`Oltretutto, come primo passo per la riscossione, ho già preso in custodia ‘l'anello del capofamiglia degli Ushiromiya’, il quale rappresenta la trasmissione dell'eredità della famiglia.`
+`Oltretutto, come primo passo per la riscossione, ho già preso in custodia l'Anello del Capofamiglia degli Ushiromiya, il quale rappresenta la trasmissione dell'eredità della famiglia.`
 `Vi chiedo di accertarvene voi stessi, mediante la cera utilizzata per il sigillo."}`
 `"...Come osa dire queste cose...?!`
 ` È impensabile che papà abbia ceduto il suo anello...!"`
