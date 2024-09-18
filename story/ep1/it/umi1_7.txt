@@ -753,7 +753,7 @@
 `"A questo punto, è necessario che esplichi a tutti voi presenti questa sezione del contratto.`
 ` Io, {f:5:Beatrice}, ho prestato un'ingente quantità d'oro al signor Kinzo, a determinate condizioni.`
 ` Stando ad esse, al momento dello scioglimento del contratto, tutto l'oro tornerà in mio possesso.`
-` Inoltre, sono autorizzata a ricevere tutte le possessioni della famiglia Ushiromiya, a titolo di interesse."`
+` Inoltre, sono autorizzata a ricevere tutte le possessioni della famiglia Ushiromiya a titolo di interesse."`
 `"N-Non ha alcun senso!!"`
 `"...N-Non ha mai avuto senso sin dal principio..."`
 `"Quindi è questa la situazione, eh?`
@@ -775,7 +775,7 @@
 ` {f:5:Beatrice} dovrà rinunciare per sempre ad ogni diritto su di essi..."}`
 `{e:070:"La riscossione degli interessi avrà luogo a breve, ma se anche uno solo di voi dovesse soddisfare la clausola speciale,`
 `{n}verrà restituita ogni cosa, incluso quello che avrò già incassato.`
-`Oltretutto, come primo passo per la riscossione, ho già preso in custodia l'Anello del Capofamiglia degli Ushiromiya, il quale rappresenta la trasmissione dell'eredità della famiglia.`
+`Oltretutto, come primo passo per la riscossione ho già preso in custodia l'Anello del Capofamiglia degli Ushiromiya, il quale rappresenta la trasmissione dell'eredità della famiglia.`
 `Vi chiedo di accertarvene voi stessi, mediante la cera utilizzata per il sigillo."}`
 `"...Come osa dire queste cose...?!`
 ` È impensabile che papà abbia ceduto il suo anello...!"`
@@ -803,7 +803,7 @@
 `"N-No, non può esserci!`
 ` In qualità di rappresentante del capofamiglia, sono io che detengo tutti i beni di nostro padre!`
 ` Non dovrebbe esserci nessuno che possa farlo a suo piacimento, senza che io ne venga a conoscenza!"`
-`"Quindi in pratica, esistono dei beni che non detieni, fratellone Klaus?"`
+`"Quindi in pratica esistono dei beni che non detieni, fratellone Klaus?"`
 `"Che stupidaggine, non esiste nulla del genere!"`
 `"...Esiste eccome.`
 ` È un asset di papà, che tu non detieni, fratellone."`
@@ -814,17 +814,17 @@
 ` In parole povere, papà aveva una confidente di cui neanche il fratellone ne era a conoscenza.`
 ` Inoltre, questa persona è stata incaricata di sorvegliare e amministrare l'oro per tutto questo tempo.`
 ` Oppure era una rampolla eccentrica che lo ha sovvenzionato, tramite un accordo simile ad uno di quei patti col diavolo."`
-`"...Magari questa confidente, dal nome di {f:5:Beatrice}, vuole accertarsi su chi tra i figli sia il più adatto ad essere finanziato dal suo oro?"`
-`Quelle ultime parole di Kirie, erano qualcosa che tutti i fratelli volevano mettere bene in chiaro.`
+`"...Magari questa confidente dal nome di {f:5:Beatrice} vuole accertarsi su chi tra i figli sia il più adatto ad essere finanziato dal suo oro?"`
+`Quelle ultime parole di Kirie erano qualcosa che tutti i fratelli volevano mettere bene in chiaro.`
 `Riflettendoci su, quell'epigrafe tanto strana era sempre stata in mostra nel salone, sotto il ritratto della strega,`
 ` e se da un lato si vociferava che sarebbe stata ceduta ogni cosa a chi l'avrebbe risolta... nessuno l'aveva mai stabilito con chiarezza.`
 `Era solo qualcosa che si sperava fosse vero.`
 ` E ciò era stato espresso chiaramente, proprio lì, in quel momento, grazie alla lettera di {f:5:Beatrice}!`
 `Specificava nettamente che, tutto quel che apparteneva alla famiglia Ushiromiya, sarebbe stato ceduto a chi avrebbe scoperto l'oro.`
-`"Per quanto riguarda il nascondiglio dell'oro, il signor Kinzo l'ha già esposto pubblicamente, all'interno dell'epigrafe al di sotto del mio ritratto.`
-` I termini verranno applicati equamente, a tutti coloro in grado di leggere l'epigrafe.`
+`"Per quanto riguarda il nascondiglio dell'oro, il signor Kinzo l'ha già esposto pubblicamente all'interno dell'epigrafe al di sotto del mio ritratto.`
+` I termini verranno applicati equamente a tutti coloro in grado di leggere l'epigrafe.`
 `{n}Se riuscirete a trovare l'oro, vi restituirò ogni cosa."`
-`"Perciò, godetevi appieno la gara d'ingegno di stasera con il signor Kinzo.`
+`"Perciò godetevi appieno la gara d'ingegno di stasera con il signor Kinzo.`
 `{n}Spero dal profondo del cuore che la vostra sarà una serata intellettuale e di classe.`
 `{nobreak:—{f:5:Beatrice} la Dorata}."`
 `"...Padre, lo so che puoi sentirmi!`
