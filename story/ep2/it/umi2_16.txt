@@ -559,7 +559,7 @@
 `Sulla schiena minuta di un Kinzo tremante e piangente, atterrò una farfalla dalle sembianze di una fogliolina, materializzatasi dal nulla...`
 `Sciocco Kinzo.`
 `{n}Pensi che esista una donna che cederebbe di fronte alle lacrime di un uomo...?`
-`Beh... anche se una donna {y:0:Umana}{n:0:umana} non cadrà ai tuoi piedi... forse potrebbe farlo una donna {y:0:Inumana}{n:0:inumana}.`
+`Beh... anche se una donna {y:0:Umana}{n:0:umana} non cadrà ai tuoi piedi... forse potrebbe farlo una donna che non ha nulla di {y:0:Umano}{n:0:umano}.`
 `Te la ricordi,`
 ` Kinzo...?`
 `{n}La composizione di scacchi svolta insieme a me, e lasciata inconclusa...?`

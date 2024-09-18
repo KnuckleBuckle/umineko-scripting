@@ -201,7 +201,7 @@
 ` Dov'è la nostra stanza?"`
 `"Prego, da questa parte, le farò da guida.`
 ` Mi permetta di portare il suo bagaglio."`
-`"Grazie, ma è tutto apposto, posso portarlo da sola."`
+`"Grazie, ma è tutto a posto, posso portarlo da sola."`
 `Rosa entrò nella stanza in cui Gouda l'aveva guidata.`
 `Dopodiché chiuse la porta in modo abbastanza violento, e gettò sul letto il suo bagaglio.`
 `"...`
@@ -704,8 +704,8 @@
 `"Lei è la seconda moglie di Rudolf?"`
 `"Ha indovinato.`
 ` Lei è la signora Kirie, la moglie attuale del signor Rudolf."`
-`Da quello scambio Kirie capì che, all'interno della famiglia Ushiromiya, la persona dinanzi a lei fosse un'ospite di un rango abbastanza elevato...`
-`E il fatto che si trattasse di un'ospite di tale livello...`
+`Da quello scambio Kirie capì che, all'interno della famiglia Ushiromiya, la persona dinanzi a lei fosse un ospite di un rango abbastanza elevato...`
+`E il fatto che si trattasse di un ospite di tale livello...`
 ` unito alla somiglianza del suo volto con quello del ritratto nel salone d'ingresso... fece immediatamente spalancare gli occhi a Kirie...`
 `"...Piacere di conoscerla.`
 ` Io mi chiamo Kirie.`

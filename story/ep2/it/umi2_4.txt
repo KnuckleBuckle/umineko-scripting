@@ -300,7 +300,7 @@
 `"Quest'oggi arriverà un ospite importante...`
 ` Vedete di non fare errori."`
 `"...Ne siamo consapevoli...`
-` Chiunque giunge qui è un'ospite importante."`
+` Chiunque giunge qui è un ospite importante."`
 `"Kanon.`
 ` Oggi noi accoglieremo...`
 ` {i:l'ospite importante} per eccellenza.`
@@ -546,7 +546,7 @@
 ` Non riesco a dare il mio meglio senza un po' di dessert."`
 `"Capisco.`
 ` La cattiva notizia è che la parte contendente ha iniziato i preparativi per fare causa.`
-` Giusto pochi giorni fa, un processo simile è risultato in una sentenza incredibilmente favorevole per il querelante.`
+` Giusto pochi giorni fa, un simile processo è risultato in una sentenza incredibilmente favorevole per il querelante.`
 ` Anche gli imputati avevano ribattuto con circa le stesse argomentazioni che noi proclamiamo, ma sono state tutte respinte."`
 `"Duole ammetterlo, ma se allo stato attuale ci presentassimo in corte, le probabilità che ogni nostra asserzione venga respinta sono estremamente alte."`
 `"...Quindi quel processo è stato un disastro...`
@@ -561,7 +561,7 @@
 `"Le tue impressioni?"`
 `"Onestamente, prevedo che saranno molto inclementi.`
 ` La nostra stima è che cambiare il nome della società e del marchio sarà inevitabile.`
-` Abbiamo margini di negoziazione nella somma da pattuire, nelle scuse pubbliche da rilasciare su un grande quotidiano, e nel tempo che avremo per compiere il tutto."`
+` Abbiamo margini di negoziazione nella somma da pattuire, nelle scuse pubbliche da rilasciare su un grande quotidiano, e nel tempo che avremo per adempiere ad ogni termine."`
 `"Tutte queste manfrine quando potrebbero dirci subito di andare in fallimento."`
 `"Di recente, la parte contendente è da poco passata al suo nuovo presidente, e la transizione non è stata ancora ultimata.`
 ` Temono che, se resistessimo fino alla fine, le forze contrarie all'attuale presidente non esiterebbero a compiere manovre a favore del nemico."`
@@ -576,10 +576,10 @@
 ` Ahahahah.`
 ` {i:Thank you, thank you, goodbye}."`
 `Rudolf riagganciò la cornetta.`
-`I dirigenti presenti a quella riunione parevano aver intuito i contenuti della discussione.`
+`I dirigenti presenti a quella riunione parevano aver intuito quanto era stato discusso.`
 `"...Avete sentito, carogne?`
 ` Detta in parole povere,`
-` ci perdoneranno se avremo abbastanza quattrini.`
+` se avremo abbastanza quattrini ci perdoneranno.`
 ` L'unica questione è sulla quantità di denaro."`
 `"Ma, presidente.`
 ` La stima del patteggiamento in denaro indicata da Mr. Watanabe è troppo alta.`
@@ -674,7 +674,7 @@
 ` Varrà la pena vederlo..."`
 `"Hmph...`
 ` Capisco.`
-` Un inabile nella magia come te ritiene che il rituale segreto a cui ho dedicato i miei studi sia un azzardo?`
+` Un inabile nella magia come te ritiene che il rituale misterico a cui ho dedicato i miei studi sia un azzardo?`
 ` Molto bene..."`
 `"Io credo nei miracoli, e se dovessi vincere io,`
 ` potrai comprendere con chiarezza che tutte le mie ricerche, le quali ai tuoi occhi sono sempre sembrate delle bizzarrie, quest'oggi daranno i loro frutti.`
